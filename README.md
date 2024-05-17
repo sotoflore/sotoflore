@@ -38,6 +38,15 @@ esta es una descripcion
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&amp;logo=tailwind-css&amp;logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black)
 
+## WebSite: [360mentality](https://360mentality.com/)
+#### Descripción:
+esta es una descripcion
+#### Tecnologías Usadas
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap&amp;logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black)
+
 ## WebSite: [AnalytikaCore](https://analytikacore.com/)
 #### Descripción:
 esta es una descripcion
@@ -55,15 +64,6 @@ esta es una descripcion
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap&amp;logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black)
-
-## WebSite: [360mentality](https://360mentality.com/)
-#### Descripción:
-esta es una descripcion
-#### Tecnologías Usadas
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap&amp;logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black)
 
 ## WebSite: [Colibro Tech](https://colibrotech.com/)
 #### Descripción:
