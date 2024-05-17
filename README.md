@@ -31,8 +31,8 @@ Soy un desarrollador de software apasionado con experiencia en el desarrollo de 
 
 ## WebSite: [UIComponents](https://tailwindcsscomponents.netlify.app/)
 ![Francisco Soto Flores](https://github.com/sotoflore/sotoflore/blob/main/projects/proyecto-components.png)
-#### Descripción:
-esta es una descripcion
+### Descripción:
+Descubre una colección completa de componentes de interfaz de usuario (UI) listos para usar en tu sitio web en [tailwindcsscomponents.netlify.app.](https://tailwindcsscomponents.netlify.app/) Estos componentes están hechos con Tailwind CSS, de los cuales podrás encontrar: Botones, Banners, Formularios, Cards, entre otros.
 #### Tecnologías Usadas
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&amp;logo=tailwind-css&amp;logoColor=white)
