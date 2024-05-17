@@ -39,6 +39,7 @@ esta es una descripcion
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black)
 
 ## WebSite: [360mentality](https://360mentality.com/)
+![Francisco Soto Flores](https://github.com/sotoflore/sotoflore/blob/main/projects/proyecto-mentality.png)
 #### Descripción:
 esta es una descripcion
 #### Tecnologías Usadas
@@ -48,6 +49,7 @@ esta es una descripcion
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black)
 
 ## WebSite: [AnalytikaCore](https://analytikacore.com/)
+![Francisco Soto Flores](https://github.com/sotoflore/sotoflore/blob/main/projects/proyecto-analytikacore.png)
 #### Descripción:
 esta es una descripcion
 #### Tecnologías Usadas
@@ -57,6 +59,7 @@ esta es una descripcion
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black)
 
 ## WebSite: [Fiduto](https://fiduto.com/)
+![Francisco Soto Flores](https://github.com/sotoflore/sotoflore/blob/main/projects/proyecto-fiduto.png)
 #### Descripción:
 esta es una descripcion
 #### Tecnologías Usadas
@@ -66,6 +69,7 @@ esta es una descripcion
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black)
 
 ## WebSite: [Colibro Tech](https://colibrotech.com/)
+![Francisco Soto Flores](https://github.com/sotoflore/sotoflore/blob/main/projects/proyecto-colibrotech.png)
 #### Descripción:
 esta es una descripcion
 #### Tecnologías Usadas
