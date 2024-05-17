@@ -30,6 +30,7 @@ Soy un desarrollador de software apasionado con experiencia en el desarrollo de 
 ## 🏆 Proyectos
 
 ### WebSite: [UIComponents](https://tailwindcsscomponents.netlify.app/)
+![Francisco Soto Flores](https://github.com/sotoflore/sotoflore/blob/main/projects/proyecto-components.png)
 #### Descripción:
 esta es una descripcion
 #### Tecnologías Usadas
