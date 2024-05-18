@@ -46,6 +46,7 @@ Descubre una colección completa de componentes de interfaz de usuario (UI) list
 
 ## WebSite: [360mentality](https://360mentality.com/)
 ![Francisco Soto Flores](https://github.com/sotoflore/sotoflore/blob/main/projects/proyecto-mentality.png)
+En [360mentality.com](https://360mentality.com/), se dedican a ser más que una incubadora de empresas y fondo de inversión; su enfoque principal es impulsar el éxito de emprendedores audaces y empresas con visión de futuro.
 ### Tecnologías Usadas
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3)
