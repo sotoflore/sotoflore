@@ -63,6 +63,7 @@ En [360mentality.com](https://360mentality.com/), se dedican a ser más que una 
 
 ## WebSite: [Fiduto](https://fiduto.com/)
 ![Francisco Soto Flores](https://github.com/sotoflore/sotoflore/blob/main/projects/proyecto-fiduto.png)
+Sitio web con experiencia en el mundo inmobiliario aliado en procesos de cartera y trámites de escrituración. Mediante procesos, operación y tecnología, administran cada uno de tus negocios automatizando, integrando y brindando una atención al cliente de calidad.
 ### Tecnologías Usadas
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3)
