@@ -78,4 +78,4 @@ Sitio web con experiencia en el mundo inmobiliario aliado en procesos de cartera
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap&amp;logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black)
 
-¡Gracias por visitar mi perfil de GitHub! Siéntete libre de explorar mis proyectos y de contactarme si tienes alguna pregunta o colaboración en mente.
+# ¡Gracias por visitar mi perfil de GitHub! Siéntete libre de explorar mis proyectos y de contactarme si tienes alguna pregunta o colaboración en mente.
