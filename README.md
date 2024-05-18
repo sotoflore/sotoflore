@@ -38,18 +38,15 @@ Soy un desarrollador de software apasionado con experiencia en el desarrollo de 
 
 ## WebSite: [UIComponents](https://tailwindcsscomponents.netlify.app/)
 ![Francisco Soto Flores](https://github.com/sotoflore/sotoflore/blob/main/projects/proyecto-components.png)
-### Descripción:
 Descubre una colección completa de componentes de interfaz de usuario (UI) listos para usar en tu sitio web en [tailwindcsscomponents.netlify.app.](https://tailwindcsscomponents.netlify.app/) Estos componentes están hechos con Tailwind CSS, de los cuales podrás encontrar: Botones, Banners, Formularios, Cards, entre otros.
-#### Tecnologías Usadas
+### Tecnologías Usadas
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&amp;logo=tailwind-css&amp;logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black)
 
 ## WebSite: [360mentality](https://360mentality.com/)
 ![Francisco Soto Flores](https://github.com/sotoflore/sotoflore/blob/main/projects/proyecto-mentality.png)
-#### Descripción:
-esta es una descripcion
-#### Tecnologías Usadas
+### Tecnologías Usadas
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap&amp;logoColor=white)
@@ -57,9 +54,7 @@ esta es una descripcion
 
 ## WebSite: [AnalytikaCore](https://analytikacore.com/)
 ![Francisco Soto Flores](https://github.com/sotoflore/sotoflore/blob/main/projects/proyecto-analytikacore.png)
-#### Descripción:
-esta es una descripcion
-#### Tecnologías Usadas
+### Tecnologías Usadas
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap&amp;logoColor=white)
@@ -67,9 +62,7 @@ esta es una descripcion
 
 ## WebSite: [Fiduto](https://fiduto.com/)
 ![Francisco Soto Flores](https://github.com/sotoflore/sotoflore/blob/main/projects/proyecto-fiduto.png)
-#### Descripción:
-esta es una descripcion
-#### Tecnologías Usadas
+### Tecnologías Usadas
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap&amp;logoColor=white)
@@ -77,9 +70,7 @@ esta es una descripcion
 
 ## WebSite: [Colibro Tech](https://colibrotech.com/)
 ![Francisco Soto Flores](https://github.com/sotoflore/sotoflore/blob/main/projects/proyecto-colibrotech.png)
-#### Descripción:
-esta es una descripcion
-#### Tecnologías Usadas
+### Tecnologías Usadas
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap&amp;logoColor=white)
