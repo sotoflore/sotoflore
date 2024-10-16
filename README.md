@@ -105,3 +105,25 @@ _____
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/>  
   </a>
 </p>
+
+# Proyectos
+| Nombre | Repositorio | Tecnologia |
+|----------|----------|----------|
+| Cotizador de Criptomonedas en Tiempo Real | [Repo](https://github.com/sotoflore/Cotizador-de-Criptomonedas-con-ZOD-y-Zustand)  | `React`, `TypeScript`, `CSS`, `Zod`, `Zustand`, `Axios`, `API Cryptocompare`  |
+| Buscador de Bebidas y Recetas  | [Repo](https://github.com/sotoflore/Buscador-de-Bebidas-y-Recetas-API-con-Zod-Zustand-React-Router)  | `React`, `TypeScript`, `Zod`, `Zustand`,`TailwindCSS`, `Axios`,`React Router DOM`, `API TheCocktailDB`  |
+| Administrador de Pacientes Veterinarios | [Repo](https://github.com/sotoflore/Administrador-Pacientes-Con-Zustand-y-React-Hook-Form)  | `React`, `TypeScript`, `Zustand`, `React Hook Form`, `TailwindCSS`, `React Toastify`, `uuid`  |
+| Planificador de gastos | [Repo](https://github.com/sotoflore/Control-de-Gastos-y-Presupuesto-Context-API)  | `React`, `TypeScript`, `Conetext API`, `TailwindCSS`, `uuid`, `React Calendar`, `React Swipeable List`, `Heroicons`, `Headless UI`, `React Circular Progressbar` |
+| Encriptador de Texto | [Repo](https://github.com/sotoflore/Encriptador-de-texto-js)  | `HTML`, `CSS`, `JavaScript` |
+| Aplicación de Clima en Tiempo Real | [Repo](https://github.com/sotoflore/WebApp-Clima-API-Usando-Zod)  | `React`, `TypeScript`, `Zod`, `Axios`, `CSS Modules`, `API OpenWeather` |
+| Contador de Calorías | [Repo](https://github.com/sotoflore/Contador-de-Calorias-useReducer-ContextAPI)  | `React`, `TypeScript`, `Heroicons`, `uuid`,`useReduce`, `Context API`  |
+| Landing Page para una Empresa de Piscinas | [Repo](https://github.com/sotoflore/PoolCompany-Prueba-Tecnica-Frontend)  | `HTML`, `CSS`, `Bootstrap`, `JavaScript`  |
+| Web App de Recursos Web | [Repo](https://github.com/sotoflore/Web-Tools)  | `React`, `TypeScript`, `TailwindCSS`, `Keep React`, `Lucide React`, `React Hot Toast`, `React Router Dom`, `Firebase`  |
+
+| Counter App | [Repo](https://github.com/sotoflore/Counter-App-React-Native)  | `React Native`, `TypeScript`, `CSS`  |
+| Calculadora App | [Repo](https://github.com/sotoflore/Calculadora-App-React-Native/blob/main/package.json)  | `React Native`, `TypeScript`, `CSS`  |
+| ToDo App| [Repo](https://github.com/sotoflore/ToDo-App-React-Native)  | `React Native`, `TypeScript`, `CSS`  |
+| Movies App | [Repo](https://github.com/sotoflore/Movies-App-React-Native)  | `React`, `TypeScript`, `React Navigation`, `CSS`, `Axios`  |
+| Website UI Components | [Repo](https://github.com/sotoflore/WebSite-UI-Components-react-js)  | `React`, `JavaScript`, `Flowbite`, `TailwindCSS`, `Aos`, `React Router Dom`, `React Icons`, `React Syntax Highlighter`  |
+| Catalogo Online App | [Repo](https://github.com/sotoflore/Cotizador-de-Criptomonedas-con-ZOD-y-Zustand)  | `React`, `JavaScript`, `React Bootstrap`, `React Router Dom`, `React Swift Reveal`, `React Toastify`  |
+
+
