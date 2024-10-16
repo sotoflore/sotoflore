@@ -123,6 +123,6 @@ _____
 | ToDo App| [Repo](https://github.com/sotoflore/ToDo-App-React-Native)  | `React Native`, `TypeScript`, `CSS`  |
 | Movies App | [Repo](https://github.com/sotoflore/Movies-App-React-Native)  | `React`, `TypeScript`, `React Navigation`, `CSS`, `Axios`  |
 | Website UI Components | [Repo](https://github.com/sotoflore/WebSite-UI-Components-react-js)  | `React`, `JavaScript`, `Flowbite`, `TailwindCSS`, `Aos`, `React Router Dom`, `React Icons`, `React Syntax Highlighter`  |
-| Catalogo Online App | [Repo](https://github.com/sotoflore/Cotizador-de-Criptomonedas-con-ZOD-y-Zustand)  | `React`, `JavaScript`, `React Bootstrap`, `React Router Dom`, `React Swift Reveal`, `React Toastify`  |
+| Catalogo Online App | [Repo](https://github.com/sotoflore/Catalogo-Online-react-js)  | `React`, `JavaScript`, `React Bootstrap`, `React Router Dom`, `React Swift Reveal`, `React Toastify`  |
 
 
