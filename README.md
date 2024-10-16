@@ -118,7 +118,6 @@ _____
 | Contador de Calorías | [Repo](https://github.com/sotoflore/Contador-de-Calorias-useReducer-ContextAPI)  | `React`, `TypeScript`, `Heroicons`, `uuid`,`useReduce`, `Context API`  |
 | Landing Page para una Empresa de Piscinas | [Repo](https://github.com/sotoflore/PoolCompany-Prueba-Tecnica-Frontend)  | `HTML`, `CSS`, `Bootstrap`, `JavaScript`  |
 | Web App de Recursos Web | [Repo](https://github.com/sotoflore/Web-Tools)  | `React`, `TypeScript`, `TailwindCSS`, `Keep React`, `Lucide React`, `React Hot Toast`, `React Router Dom`, `Firebase`  |
-
 | Counter App | [Repo](https://github.com/sotoflore/Counter-App-React-Native)  | `React Native`, `TypeScript`, `CSS`  |
 | Calculadora App | [Repo](https://github.com/sotoflore/Calculadora-App-React-Native/blob/main/package.json)  | `React Native`, `TypeScript`, `CSS`  |
 | ToDo App| [Repo](https://github.com/sotoflore/ToDo-App-React-Native)  | `React Native`, `TypeScript`, `CSS`  |
