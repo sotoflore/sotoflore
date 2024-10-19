@@ -50,6 +50,7 @@ Soy un desarrollador de software apasionado con experiencia en el desarrollo de 
 # Proyectos
 | Nombre | Repositorio | Tecnologia |
 |----------|----------|----------|
+| API de Autenticacion | [Repo](https://github.com/sotoflore/API-Autenticacion-Usando-Nodejs-Express-TypeScript-MongoDB)  | `Nodejs`, `Express`, `TypeScript`, `MongoDb`, `Mongoose`, `bcryptjs`, `cookie-parser`, `dotenv`, `json web token`  |
 | Cotizador de Criptomonedas en Tiempo Real | [Repo](https://github.com/sotoflore/Cotizador-de-Criptomonedas-con-ZOD-y-Zustand)  | `React`, `TypeScript`, `CSS`, `Zod`, `Zustand`, `Axios`, `API Cryptocompare`  |
 | Buscador de Bebidas y Recetas  | [Repo](https://github.com/sotoflore/Buscador-de-Bebidas-y-Recetas-API-con-Zod-Zustand-React-Router)  | `React`, `TypeScript`, `Zod`, `Zustand`,`TailwindCSS`, `Axios`,`React Router DOM`, `API TheCocktailDB`  |
 | Administrador de Pacientes Veterinarios | [Repo](https://github.com/sotoflore/Administrador-Pacientes-Con-Zustand-y-React-Hook-Form)  | `React`, `TypeScript`, `Zustand`, `React Hook Form`, `TailwindCSS`, `React Toastify`, `uuid`  |
